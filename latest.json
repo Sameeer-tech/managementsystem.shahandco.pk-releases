@@ -1,9 +1,9 @@
 {
-  "version": "1.0.4",
-  "version_code": 5,
+  "version": "1.0.6",
+  "version_code": 7,
   "force_update": false,
   "title": "Update available",
-  "message": "Thermal roll catalog: large series photos with swipe, category + series filters. Plus prior fixes.",
-  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.4/shahandco-1.0.4.apk",
-  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.4"
+  "message": "Thermal roll: all product images in catalog, full-screen gallery, multi-photo upload; series detail inch-only and no hero image. Backend returns images on admin product list.",
+  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.6/app-release.apk",
+  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.6"
 }
