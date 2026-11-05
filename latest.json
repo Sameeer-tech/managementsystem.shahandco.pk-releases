@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
-  "version_code": 2,
+  "version": "1.0.0",
+  "version_code": 1,
   "force_update": false,
   "title": "Update available",
   "message": "Thermal sales receipts, sales report (staff & profit), dashboard sales tiles, purchase history, and fixes.",
-  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.1/shahandco-1.0.1.apk",
-  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.1"
+  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.0/shahandco-1.0.0.apk",
+  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.0"
 }
