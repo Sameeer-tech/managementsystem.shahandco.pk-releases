@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "version_code": 1,
-  "force_update": false,
+  "force_update": true,
   "title": "Update available",
   "message": "A new version of Shah & Co is available. Please update for the latest features and fixes.",
   "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.0/shahandco-1.0.0.apk",
