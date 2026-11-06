@@ -1,9 +1,9 @@
 {
-  "version": "1.0.9",
-  "version_code": 10,
+  "version": "1.0.10",
+  "version_code": 11,
   "force_update": false,
   "title": "Update available",
-  "message": "Home: cash/bank/other on top + Placed/Delivery shortcuts. Place order: delivery schedule, staff, address/pin. Forgot password. Finance overview prefers completed-only when API supports it.",
-  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.9/app-release.apk",
-  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.9"
+  "message": "Order status & delivery workflow fixes, completed-only cash/bank totals, barcode roll filters, SMTP settings UI. Minimum password length is 6 characters.",
+  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.10/app-release.apk",
+  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.10"
 }
