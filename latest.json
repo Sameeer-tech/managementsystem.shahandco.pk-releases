@@ -1,9 +1,9 @@
 {
-  "version": "1.0.3",
-  "version_code": 4,
+  "version": "1.0.4",
+  "version_code": 5,
   "force_update": false,
   "title": "Update available",
-  "message": "Fix in-app update so the latest APK always downloads (cache bust). Plus barcode filters, series photos, profit, logo.",
-  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.3/shahandco-1.0.3.apk",
-  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.3"
+  "message": "Thermal roll catalog: large series photos with swipe, category + series filters. Plus prior fixes.",
+  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.4/shahandco-1.0.4.apk",
+  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.4"
 }
