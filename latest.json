@@ -1,3 +1,4 @@
+{
   "version": "1.0.6",
   "version_code": 7,
   "force_update": false,
@@ -5,3 +6,4 @@
   "message": "Thermal roll: all product images in catalog, full-screen gallery, multi-photo upload; series detail inch-only and no hero image. Backend returns images on admin product list.",
   "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.6/app-release.apk",
   "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.6"
+}
