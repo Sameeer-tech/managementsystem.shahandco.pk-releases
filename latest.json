@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
-  "version_code": 2,
+  "version": "1.0.2",
+  "version_code": 3,
   "force_update": false,
   "title": "Update available",
-  "message": "Thermal & barcode roll product catalogs on Home, sales receipts, sales report improvements, purchase history, and fixes.",
-  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.1/app-release.apk",
-  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.1"
+  "message": "Barcode filters (mm, label type, ups), inch/mm receipt toggle, series photos, profit in customer orders, company logo upload.",
+  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.2/shahandco-1.0.2.apk",
+  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.2"
 }
