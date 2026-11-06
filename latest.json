@@ -1,9 +1,9 @@
 {
-  "version": "1.0.8",
-  "version_code": 9,
+  "version": "1.0.9",
+  "version_code": 10,
   "force_update": false,
   "title": "Update available",
-  "message": "Placed and delivery order lists, clearer totals and profit on order detail, thermal receipt WhatsApp QR (80 mm), workflow actions on orders.",
-  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.8/app-release.apk",
-  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.8"
+  "message": "Home: cash/bank/other on top + Placed/Delivery shortcuts. Place order: delivery schedule, staff, address/pin. Forgot password. Finance overview prefers completed-only when API supports it.",
+  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.9/app-release.apk",
+  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.9"
 }
