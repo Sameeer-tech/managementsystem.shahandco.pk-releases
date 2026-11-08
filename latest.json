@@ -1,9 +1,9 @@
 {
-  "version": "1.0.11",
-  "version_code": 12,
+  "version": "1.0.12",
+  "version_code": 13,
   "force_update": false,
   "title": "Update available",
-  "message": "Roll material (PVC/NORMAL) on products and filters; delivery reminders for assignees; order line totals; improved Android back (home then exit prompt).",
-  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.11/app-release.apk",
-  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.11"
+  "message": "Quotations: thermal/barcode/normal products, tier pricing, professional PDF share. Plus roll material filters and delivery reminders from prior release.",
+  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.12/app-release.apk",
+  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.12"
 }
