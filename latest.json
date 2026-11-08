@@ -1,9 +1,9 @@
 {
-  "version": "1.0.10",
-  "version_code": 11,
+  "version": "1.0.11",
+  "version_code": 12,
   "force_update": false,
   "title": "Update available",
-  "message": "Order status & delivery workflow fixes, completed-only cash/bank totals, barcode roll filters, SMTP settings UI. Minimum password length is 6 characters.",
-  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.10/app-release.apk",
-  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.10"
+  "message": "Roll material (PVC/NORMAL) on products and filters; delivery reminders for assignees; order line totals; improved Android back (home then exit prompt).",
+  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.11/app-release.apk",
+  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.11"
 }
