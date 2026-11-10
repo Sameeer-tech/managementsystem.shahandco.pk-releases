@@ -1,9 +1,9 @@
 {
-  "version": "1.0.15",
-  "version_code": 16,
+  "version": "1.0.16",
+  "version_code": 17,
   "force_update": false,
   "title": "Update available",
-  "message": "Local thermal printers on this device: Wi‑Fi scan with one-tap Connect, paired Bluetooth picker, direct receipt print to default printer. Wi‑Fi print from phone (no cloud server).",
-  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.15/app-release.apk",
-  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.15"
+  "message": "Easier printer setup: see your Wi‑Fi network, find printers without confusing counters, paired Bluetooth devices listed in the app. Save once — Print uses your default.",
+  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.16/app-release.apk",
+  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.16"
 }
