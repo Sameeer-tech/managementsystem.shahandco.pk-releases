@@ -1,9 +1,9 @@
 {
-  "version": "1.0.14",
-  "version_code": 15,
+  "version": "1.0.15",
+  "version_code": 16,
   "force_update": false,
   "title": "Update available",
-  "message": "Thermal roll catalog: separate series per business category (matches web — 80 mm · A, B, C). Plus 1.0.13 features: icon, copy/paste, cost price, quotation logo, order profit.",
-  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.14/app-release.apk",
-  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.14"
+  "message": "Local thermal printers on this device: Wi‑Fi scan with one-tap Connect, paired Bluetooth picker, direct receipt print to default printer. Wi‑Fi print from phone (no cloud server).",
+  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.15/app-release.apk",
+  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.15"
 }
