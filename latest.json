@@ -1,9 +1,9 @@
 {
-  "version": "1.0.12",
-  "version_code": 13,
+  "version": "1.0.13",
+  "version_code": 14,
   "force_update": false,
   "title": "Update available",
-  "message": "Quotations: thermal/barcode/normal products, tier pricing, professional PDF share. Plus roll material filters and delivery reminders from prior release.",
-  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.12/app-release.apk",
-  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.12"
+  "message": "Shah & Co launcher icon. Product copy/paste, cost price, remove roll length, delete product, quotation logo on PDF. Order profit lines when your account can view financials.",
+  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.13/app-release.apk",
+  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.13"
 }
