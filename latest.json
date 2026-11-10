@@ -1,9 +1,9 @@
 {
-  "version": "1.0.13",
-  "version_code": 14,
+  "version": "1.0.14",
+  "version_code": 15,
   "force_update": false,
   "title": "Update available",
-  "message": "Shah & Co launcher icon. Product copy/paste, cost price, remove roll length, delete product, quotation logo on PDF. Order profit lines when your account can view financials.",
-  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.13/app-release.apk",
-  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.13"
+  "message": "Thermal roll catalog: separate series per business category (matches web — 80 mm · A, B, C). Plus 1.0.13 features: icon, copy/paste, cost price, quotation logo, order profit.",
+  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.14/app-release.apk",
+  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.14"
 }
