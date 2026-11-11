@@ -1,10 +1,9 @@
 {
-  "version": "1.0.17",
-  "version_code": 18,
+  "version": "1.0.18",
+  "version_code": 19,
   "force_update": false,
   "title": "Update available",
-  "message": "Staff performance & access controls, quotation email via SMTP, and customer/location improvements.",
-  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.17/app-release.apk",
-  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.17"
+  "message": "Colour-coded home dashboard (profit, cash, bank, alerts), place-order line totals fix, and quotation improvements.",
+  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.18/app-release.apk",
+  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.18"
 }
-
