@@ -1,9 +1,10 @@
 {
-  "version": "1.0.19",
-  "version_code": 20,
+  "version": "1.0.20",
+  "version_code": 21,
   "force_update": false,
   "title": "Update available",
-  "message": "Company profile logo & file attachments, order search/filters, on-route orders page, and dashboard pipeline counts.",
-  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.19/app-release.apk",
-  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.19"
+  "message": "More reliable Bluetooth receipt printing, notification overlay fixes, and company profile logo preview.",
+  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.20/app-release.apk",
+  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.20"
 }
+
