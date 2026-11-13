@@ -1,10 +1,18 @@
 {
-  "version": "1.0.21",
-  "version_code": 22,
+
+  "version": "1.0.23",
+
+  "version_code": 24,
+
   "force_update": false,
+
   "title": "Update available",
-  "message": "Fixes Bluetooth receipt printing on the app (correct ESC/POS stream). Includes recent notification and print improvements.",
-  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.21/app-release.apk",
-  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.21"
+
+  "message": "Bluetooth printing fixes, company logo on receipts, polished barcode roll slips, Pakistan-time dates, and app startup reliability.",
+
+  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.23/app-release.apk",
+
+  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.23"
+
 }
 
