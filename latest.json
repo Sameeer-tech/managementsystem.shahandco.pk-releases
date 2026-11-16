@@ -1,18 +1,17 @@
 {
 
-  "version": "1.0.23",
+  "version": "1.0.24",
 
-  "version_code": 24,
+  "version_code": 25,
 
   "force_update": false,
 
   "title": "Update available",
 
-  "message": "Bluetooth printing fixes, company logo on receipts, polished barcode roll slips, Pakistan-time dates, and app startup reliability.",
+  "message": "Better Bluetooth printing on all phones: per-device printer setup, permissions at print time, and more reliable printer connection.",
 
-  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.23/app-release.apk",
+  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.24/app-release.apk",
 
-  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.23"
+  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.24"
 
 }
-
