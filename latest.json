@@ -1,17 +1,17 @@
 {
 
-  "version": "1.0.25",
+  "version": "1.0.26",
 
-  "version_code": 26,
+  "version_code": 27,
 
   "force_update": false,
 
   "title": "Update available",
 
-  "message": "Offline mode: stay signed in, use saved data without internet, queue new customers and orders, and auto-sync when you are back online. Live connected/offline status at the top of the app.",
+  "message": "Offline thermal roll calculator: roll sizes are cached and quotes run on your phone without internet. Plus offline mode improvements from 1.0.25 (stay signed in, sync customers and orders, connection status bar).",
 
-  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.25/app-release.apk",
+  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.26/app-release.apk",
 
-  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.25"
+  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.26"
 
 }
