@@ -1,17 +1,17 @@
 {
 
-  "version": "1.0.24",
+  "version": "1.0.25",
 
-  "version_code": 25,
+  "version_code": 26,
 
   "force_update": false,
 
   "title": "Update available",
 
-  "message": "Better Bluetooth printing on all phones: per-device printer setup, permissions at print time, and more reliable printer connection.",
+  "message": "Offline mode: stay signed in, use saved data without internet, queue new customers and orders, and auto-sync when you are back online. Live connected/offline status at the top of the app.",
 
-  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.24/app-release.apk",
+  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.25/app-release.apk",
 
-  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.24"
+  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.25"
 
 }
