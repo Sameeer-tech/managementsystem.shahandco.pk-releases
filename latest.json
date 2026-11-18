@@ -1,17 +1,33 @@
 {
 
-  "version": "1.0.32",
 
-  "version_code": 33,
+
+  "version": "1.0.33",
+
+
+
+  "version_code": 34,
+
+
 
   "force_update": false,
 
+
+
   "title": "Update available",
 
-  "message": "Online: live server data like before. Offline: saved data and queued changes. Customer list shows follow-up count on every row.",
 
-  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.32/app-release.apk",
 
-  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.32"
+  "message": "Faster online loading: no double cache writes, less startup API traffic, parallel order counts. Use with latest server deploy.",
+
+
+
+  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.33/app-release.apk",
+
+
+
+  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.33"
+
+
 
 }
