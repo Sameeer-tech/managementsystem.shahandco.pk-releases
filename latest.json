@@ -1,17 +1,33 @@
 {
 
-  "version": "1.0.27",
 
-  "version_code": 28,
+
+  "version": "1.0.29",
+
+
+
+  "version_code": 30,
+
+
 
   "force_update": false,
 
+
+
   "title": "Update available",
 
-  "message": "Faster startup after clearing cache; stable offline connection checks. See how many customers you added today on the customers screen and add-customer form.",
 
-  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.27/app-release.apk",
 
-  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.27"
+  "message": "Fixes stuck loading on Home, Customers, Reminders, and orders. API calls time out and fall back to saved data when offline.",
+
+
+
+  "apk_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/download/v1.0.29/app-release.apk",
+
+
+
+  "release_notes_url": "https://github.com/Sameeer-tech/managementsystem.shahandco.pk-releases/releases/tag/v1.0.29"
+
+
 
 }
